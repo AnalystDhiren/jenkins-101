@@ -31,7 +31,7 @@ pipeline {
             steps {
                 echo 'Deliver....'
                 sh '''
-                echo "doing delivery ON ZONE 1 stuff.."
+                echo "doing delivery ON ZONE 2 stuff.."
                 '''
             }
         }
